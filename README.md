@@ -1,6 +1,6 @@
 # Wiki-Web-Scraper
 # Objective 
-To find a corelation between Depression rates and Per Capita income and the amount a sunlight a country recieves
+To find a corelation between Depression rates and Per Capita income and the amount a sunlight of country recieves
 # Data
 Data here was scraped from wikipedia
 # Tools
